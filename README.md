@@ -47,14 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarathyMurugesan3 &show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarathyMurugesan3 &layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 ## 📫 Connect With Me  
 <p align="left">
   <a href="https://github.com/SarathyMurugesan3"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
